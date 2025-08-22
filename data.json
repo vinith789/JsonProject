@@ -1,0 +1,56 @@
+[
+  {
+    "id": 107,
+    "name": "Printer",
+     "brand": "HP",
+     "price": 12000,
+     "stock": true
+   },
+  {
+    "id": 108,
+    "name": "Keyboard",
+     "brand": "Logitech",
+     "price": 1500,
+     "stock": true
+    },
+  {
+    "id": 109,
+     "name": "Mouse",
+     "brand": "Dell",
+      "price": 800,
+       "stock": false
+      },
+  { "id": 110, "name": "Monitor", "brand": "Samsung", "price": 15000, "stock": true },
+  { "id": 111, "name": "External Hard Drive", "brand": "Seagate", "price": 5000, "stock": true },
+  { "id": 112, "name": "Pendrive", "brand": "Sandisk", "price": 600, "stock": true },
+  { "id": 113, "name": "Router", "brand": "TP-Link", "price": 2500, "stock": false },
+  { "id": 114, "name": "Projector", "brand": "Epson", "price": 35000, "stock": true },
+  { "id": 115, "name": "Speakers", "brand": "JBL", "price": 4000, "stock": true },
+  { "id": 116, "name": "Microphone", "brand": "Blue Yeti", "price": 12000, "stock": false },
+  { "id": 117, "name": "VR Headset", "brand": "Oculus", "price": 45000, "stock": true },
+  { "id": 118, "name": "Drone", "brand": "DJI", "price": 75000, "stock": true },
+  { "id": 119, "name": "Smart TV", "brand": "LG", "price": 60000, "stock": true },
+  { "id": 120, "name": "Gaming Console", "brand": "Sony PlayStation", "price": 50000, "stock": false }
+,
+  { "id": 110, "name": "Monitor", "brand": "Samsung", "price": 15000, "stock": true },
+  { "id": 111, "name": "External Hard Drive", "brand": "Seagate", "price": 5000, "stock": true },
+  { "id": 112, "name": "Pendrive", "brand": "Sandisk", "price": 600, "stock": true },
+  { "id": 113, "name": "Router", "brand": "TP-Link", "price": 2500, "stock": false },
+  { "id": 114, "name": "Projector", "brand": "Epson", "price": 35000, "stock": true },
+  { "id": 115, "name": "Speakers", "brand": "JBL", "price": 4000, "stock": true },
+  { "id": 116, "name": "Microphone", "brand": "Blue Yeti", "price": 12000, "stock": false },
+  { "id": 117, "name": "VR Headset", "brand": "Oculus", "price": 45000, "stock": true },
+  { "id": 118, "name": "Drone", "brand": "DJI", "price": 75000, "stock": true },
+  { "id": 119, "name": "Smart TV", "brand": "LG", "price": 60000, "stock": true },
+
+  { "id": 110, "name": "Monitor", "brand": "Samsung", "price": 15000, "stock": true },
+  { "id": 111, "name": "External Hard Drive", "brand": "Seagate", "price": 5000, "stock": true },
+  { "id": 112, "name": "Pendrive", "brand": "Sandisk", "price": 600, "stock": true },
+  { "id": 113, "name": "Router", "brand": "TP-Link", "price": 2500, "stock": false },
+  { "id": 114, "name": "Projector", "brand": "Epson", "price": 35000, "stock": true },
+  { "id": 115, "name": "Speakers", "brand": "JBL", "price": 4000, "stock": true },
+  { "id": 116, "name": "Microphone", "brand": "Blue Yeti", "price": 12000, "stock": false },
+  { "id": 117, "name": "VR Headset", "brand": "Oculus", "price": 45000, "stock": true },
+  { "id": 118, "name": "Drone", "brand": "DJI", "price": 75000, "stock": true },
+  { "id": 119, "name": "Smart TV", "brand": "LG", "price": 60000, "stock": true }
+]

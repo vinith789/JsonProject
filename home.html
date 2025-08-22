@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+
+  <h1 class="title">Product List</h1>
+
+  <div class="search-box">
+    <input type="text" id="searchInput" placeholder="Enter the Product Name">
+    <button onclick="searchProduct()">Search</button>
+    <button id="goToProducts" style="display: none;" onclick="gotoproduct()">Go To Product</button>
+  </div>
+
+  <div id="productContainer" class="card-container"></div>
+  <div id="noResult" class="no-result">
+    <h1>No Product Found</h1>
+  </div>
+
+  <div id="pagination" class="pagination"></div>
+
+  <script src="./scrpit.js"></script>
+
+</body>
+</html>
